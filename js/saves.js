@@ -72,7 +72,8 @@ function getPlayerData() {
         tier: 0,
         tp: E(0),
 
-       
+        upgs: {},
+        autoUpg: {},
 
         maxPerk: 0,
         spentPerk: 0,
